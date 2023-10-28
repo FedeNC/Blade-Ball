@@ -1,7 +1,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "Script by Hosvile",
-	Text = "Hold Block button to Spam",
-	Duration = 5
+	Title = "Welcome!",
+	Text = "Credits to: fede_nc in Discord",
+	Duration = 10
 })
 
 getgenv().SpamSpeed = 5 -- 1-25
